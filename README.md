@@ -16,7 +16,9 @@ For the purpose of score prediction, only the data about the first innings is ke
   * Extras
   * Kind of wicket, if any
   * Dismissed played, if there was a wicket
+
 Some new features are added, and some features are discarded. Final features are:
+
   * id // unique id of the match
   * overs
   * teamBat
